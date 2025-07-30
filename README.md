@@ -18,7 +18,7 @@
 
 # 🤖 AI-ML-Cheatsheets
 
-A curated collection of quick-reference standford guides covering core topics in Artificial Intelligence, Machine Learning and Deep Learning. These cheatsheets are designed to help students, developers, and researchers quickly recall important concepts and formulas.
+A curated collection of quick-reference stanford guides covering core topics in Artificial Intelligence, Machine Learning and Deep Learning. These cheatsheets are designed to help students, developers, and researchers quickly recall important concepts and formulas.
 
 ## 📚 Topics Covered
 
